@@ -2,7 +2,7 @@
 
 🎓 Computer Engineering Student @ ESTGV - IPV  
 📍 Portugal → 🇩🇪 Hamburg (future plans)  
-🔐 Interested in **Cybersecurity**
+🔐 Interested in **Cybersecurity** and **Software Engineering**
 
 ## 🛠️ Technologies
 
